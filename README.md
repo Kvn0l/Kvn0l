@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/Kvn0l">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Hmaxsuel25&show_icons=true&theme=noctis&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Kvn0l&show_icons=true&theme=noctis&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kvn0l&layout=compact&langs_count=7&theme=noctis"/>
 </div>
 
